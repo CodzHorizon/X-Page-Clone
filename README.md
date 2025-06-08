@@ -1,20 +1,23 @@
 # 🐦 X-Page-Clone
 
-A front-end clone of the X (formerly Twitter) homepage built using HTML, CSS, and JavaScript. This project mimics the layout and design of X's user interface for educational and portfolio purposes.
+A front-end clone of the X (formerly Twitter) homepage built with HTML, CSS, and JavaScript. It mimics the design and layout of X’s user interface for educational and portfolio purposes.
 
-![Screenshot of X Page Clone](./screenshot.png) <!-- Replace with actual image path if available -->
+🔗 **Live Demo**: [codzhorizon.github.io/X-Page-Clone](https://codzhorizon.github.io/X-Page-Clone/)
 
-## 🚀 Live Demo
+## ✨ Features
+- Responsive design (mobile + desktop)
+- Static feed layout with sample user posts
+- Modern UI built using semantic HTML & modular CSS
+- Lightweight and fast — no backend or frameworks
 
-Visit the live version here: [X-Page-Clone on GitHub Pages](https://codzhorizon.github.io/X-Page-Clone/)
+## 🎯 Purpose
+For learning front-end dev, practicing layout cloning, or showcasing in a portfolio.
 
-## 🛠️ Features
+## ⚠️ Disclaimer
+This is an educational clone. All brand elements (Twitter/X) are trademarks of their respective owners. No affiliation or endorsement implied.
 
-- Responsive layout optimized for desktop and mobile
-- Simulated post feed with placeholder user data
-- Clean and modern UI similar to X's 2023+ design
-- Built with semantic HTML and modular CSS
-- No backend or API integration — purely front-end
+## 📝 License
+Open-source under the [MIT License](./LICENSE). Fork, modify, or reuse with credit.
 
-## 📁 Folder Structure
-
+## 👤 Author
+[Kshitiz] – [@CodzHorizon](https://github.com/CodzHorizon)
