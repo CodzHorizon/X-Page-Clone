@@ -4,6 +4,9 @@ A front-end clone of the X (formerly Twitter) homepage built with HTML, CSS, and
 
 🔗 **Live Demo**: [codzhorizon.github.io/X-Page-Clone](https://codzhorizon.github.io/X-Page-Clone/)
 
+## ScreenShot
+![image](https://github.com/user-attachments/assets/f08286ac-cd63-4635-8e22-67f2bdf64629)
+
 ## ✨ Features
 - Responsive design (mobile + desktop)
 - Static feed layout with sample user posts
