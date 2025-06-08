@@ -2,7 +2,7 @@
 
 A front-end clone of the X (formerly Twitter) homepage built with HTML, CSS, and JavaScript. It mimics the design and layout of X’s user interface for educational and portfolio purposes.
 
-🔗 **Live Demo**: [codzhorizon.github.io/X-Page-Clone](https://codzhorizon.github.io/X-Page-Clone/)
+🔗 **Live Demo**: [CodzHorizon.github.io/X-Page-Clone](https://CodzHorizon.github.io/X-Page-Clone/)
 
 ## ScreenShot
 ![image](https://github.com/user-attachments/assets/f08286ac-cd63-4635-8e22-67f2bdf64629)
@@ -23,4 +23,5 @@ This is an educational clone. All brand elements (Twitter/X) are trademarks of t
 Open-source under the [MIT License](./LICENSE). Fork, modify, or reuse with credit.
 
 ## 👤 Author
+
 [Kshitiz] – [@CodzHorizon](https://github.com/CodzHorizon)
