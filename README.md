@@ -1,6 +1,6 @@
 # 🐦 X-Page-Clone
 
-A front-end clone of the X (formerly Twitter) homepage built with HTML, CSS, and JavaScript. It mimics the design and layout of X’s user interface for educational and portfolio purposes.
+A front-end clone of the X (formerly Twitter) homepage built with HTML And Tailwind CSS. It mimics the design and layout of X’s user interface for educational and portfolio purposes.
 
 🔗 **Live Demo**: [CodzHorizon.github.io/X-Page-Clone](https://CodzHorizon.github.io/X-Page-Clone/)
 
@@ -10,7 +10,7 @@ A front-end clone of the X (formerly Twitter) homepage built with HTML, CSS, and
 ## ✨ Features
 - Responsive design (mobile + desktop)
 - Static feed layout with sample user posts
-- Modern UI built using semantic HTML & modular CSS
+- Modern UI built using semantic HTML & Tailwind CSS
 - Lightweight and fast — no backend or frameworks
 
 ## 🎯 Purpose
