@@ -13,6 +13,15 @@ A front-end clone of the X (formerly Twitter) homepage built with HTML And Tailw
 - Modern UI built using semantic HTML & Tailwind CSS
 - Lightweight and fast — no backend or frameworks
 
+### Installation
+
+- **git clone https://github.com/CodzHorizon/Todo-List.git**
+- **cd Todo-List** 
+- **npm install**
+- **npm install tailwindcss @tailwindcss/cli 
+- **npx @tailwindcss/cli -i ./style.css -o ./output.css --watch**
+- **Start Live server**
+
 ## 🎯 Purpose
 For learning front-end dev, practicing layout cloning, or showcasing in a portfolio.
 
